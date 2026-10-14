@@ -7,7 +7,7 @@ from datetime import datetime
 # =========================================================
 # CONFIGURATION
 # =========================================================
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://resq-ai-vegv.onrender.com"
 HISTORY_DB = "incident_history.db"
 
 st.set_page_config(page_title="ResQ-AI Command Center", page_icon="🚨", layout="wide", initial_sidebar_state="expanded")
