@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+qdrant_data/
+incident_history.db
+*.db
+.streamlit/secrets.toml
